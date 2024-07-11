@@ -1,0 +1,138 @@
+[
+  {
+    "answerKey": "4",
+    "question": "Which one is not the part of System Testing?",
+    "option3": "Load Testing",
+    "option4": "Unit Testing",
+    "option1": "Regression Testing",
+    "option2": "Sanity Testing"
+  },
+  {
+    "answerKey": "3",
+    "question": "----- is done by suddenly increasing the load for a small period of time and observing the behavior of the system.",
+    "option3": "Spike Testing",
+    "option4": "All of these",
+    "option1": "Stress Testing",
+    "option2": "Load Testing"
+  },
+  {
+    "answerKey": "2",
+    "question": "Assertion Testing is --------",
+    "option3": "Testing technique similar to unit testing in that it targets the code level.",
+    "option4": "Testing where each condition\/decision is executed by setting it on true\/false.",
+    "option1": "Performed without planning and documentation.",
+    "option2": "Verifying if the conditions confirm the product requirements."
+  },
+  {
+    "answerKey": "4",
+    "question": "Which is not true regarding Smoke and Sanity Testing?",
+    "option3": "Smoke and sanity tests can be executed using an automation tool.",
+    "option4": "When executing both, then first execute sanity testing tests and then smoke Testing.",
+    "option1": "Sanity Testing is also called tester acceptance testing.",
+    "option2": "Smoke testing performed on a particular build is also known as a build verification test."
+  },
+  {
+    "answerKey": "3",
+    "question": "Testing beyond normal operational capacity is __________.",
+    "option3": "Stress testing",
+    "option4": "All of these.",
+    "option1": "Load testing",
+    "option2": "Performance testing"
+  },
+  {
+    "answerKey": "2",
+    "question": "Which Testing is performed first?",
+    "option3": "White box testing",
+    "option4": "Dynamic Testing",
+    "option1": "Black box testing",
+    "option2": "Static Testing"
+  },
+  {
+    "answerKey": "3",
+    "question": "Which is whitebox testing technique?",
+    "option3": "Decision table testing",
+    "option4": "Adhoc Testing",
+    "option1": "Equivalent Partitioning",
+    "option2": "Boundary value testing"
+  },
+  {
+    "answerKey": "3",
+    "question": "White Box Testing is not concern with _________.",
+    "option3": "Cause and Effect Coverage",
+    "option4": "Multiple Condition Coverage",
+    "option1": "Statement Coverage",
+    "option2": "Decision Coverage"
+  },
+  {
+    "answerKey": "4",
+    "question": "Pesticide Paradox principle of testing says that ______________.",
+    "option3": "Testing is done differently in different context.",
+    "option4": "Test cases needs to be regularly reviewed and revised.",
+    "option1": "Clustering modules contain most of the defects.",
+    "option2": " Finding and Fixing defects does not help if the system built is unstable."
+  },
+  {
+    "answerKey": "3",
+    "question": "When an expected result is not specified in test case template then ___________.",
+    "option3": "It may be difficult to determine if the test has passed or failed.",
+    "option4": "We cannot automate the user inputs.",
+    "option1": "We cannot run the test.",
+    "option2": "It may be difficult to repeat the test."
+  },
+  {
+    "answerKey": "1",
+    "question": "End result of Software Requirement Analysis is ________.",
+    "option3": "Usability and Reliability",
+    "option4": "Algorithmic and Data Structure",
+    "option1": "Functional and Behavioral",
+    "option2": "Architectural and Structural"
+  },
+  {
+    "answerKey": "4",
+    "question": "Bug status is set to postpone due to ________.",
+    "option3": "The bug may not be the major effect in the software.",
+    "option4": "Data may be unavailable.",
+    "option1": "Priority of that bug may low.",
+    "option2": "Lack of time for the release."
+  },
+  {
+    "answerKey": "1",
+    "question": "Verification and Validation uses __________.",
+    "option3": "External resources only.",
+    "option4": "External and Internal resources respectively.",
+    "option1": "Internal and External resources respectively.",
+    "option2": "Internal resources only."
+  },
+  {
+    "answerKey": "1",
+    "question": "The expected results of the software is _________________.",
+    "option3": "Most useful when specified in advance",
+    "option4": "Derived from the code",
+    "option1": "Only important in system testing",
+    "option2": "Only used in component testing"
+  },
+  {
+    "answerKey": "3",
+    "question": "Which is not true?",
+    "option3": "Error guessing has rules for testing.",
+    "option4": "Predicate Coverage uses Boolean values",
+    "option1": "Condition coverage is also known as Predicate Coverage",
+    "option2": "100% condition coverage does not guarantee 100% decision coverage."
+  },
+  {
+    "answerKey": "1",
+    "question": "Test cases are created in which phase?",
+    "option3": "Test Requirement",
+    "option4": "Test Configuration",
+    "option1": "Test Specification",
+    "option2": "Test Planning"
+  },
+  {
+    "answerKey": "4",
+    "question": "Which testing is performed with Planning and Documentation?",
+    "option3": "Fuzz testing",
+    "option4": "End-to-End testing",
+    "option1": "Ad-hoc testing",
+    "option2": "Monkey testing"
+  }
+]
